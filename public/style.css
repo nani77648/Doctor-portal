@@ -1,0 +1,9 @@
+body{
+    background-image: url('https://wallpaperaccess.com/full/1393237.jpg');
+    background-size: cover;
+}
+.card{
+    margin-top: 5em;
+    margin-left: 25em;
+    margin-right: 25em;
+}
